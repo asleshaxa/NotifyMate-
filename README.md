@@ -1,4 +1,4 @@
-# 🔔 NotifyMate - Desktop Notifier App in Python
+# 🔔 NotifyMate - Desktop Notifier in Python
 
 **NotifyMate** is a simple yet fun Python application that shows desktop pop-up notifications 💬. You’ll receive reminders or messages whenever the app is triggered — making it your digital bestie for productivity, care, or even love notes! 💖
 
